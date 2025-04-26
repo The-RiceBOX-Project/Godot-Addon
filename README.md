@@ -1,4 +1,4 @@
-# This is the Source code for the Godot addon used for the RiceBOX Controller.
+This is the Source code for the Godot addon used for the RiceBOX Controller.
 
 
 # How to use
